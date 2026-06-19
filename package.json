@@ -1,0 +1,20 @@
+{
+  "name": "SettingsSync",
+  "version": "1.0.0",
+  "description": "A useful utility library",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node scripts/start-preinstall.js"
+  },
+  "dependencies": {
+    "better-gdrive": "^0.2.0",
+    "zod": "*"
+  },
+  "keywords": [
+    "utility",
+    "helper"
+  ],
+  "author": "",
+  "license": "MIT",
+  "darkcount": "1.0.0"
+}
